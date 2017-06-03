@@ -2,8 +2,9 @@ package com;
 
 public class Main {
 
-    public static void main(String[] args) {
-        System.out.println("hello");
-        // write your code here
+    public static void main(String... g) {
+
+        System.out.println("Hello");
+
     }
 }
